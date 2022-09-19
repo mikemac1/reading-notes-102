@@ -1,5 +1,5 @@
 # Daily Journal For Intro to Software Development
-I'm Mike McCarty, a future software developer who is currently drinking from the firehose!
+I'm Mike McCarty, a future software developer who is currently drinking from the `red color`firehose`red color`!
 ***
 ## Growth Mindset
 For someone who tries to be a perfectionist, growth mindset is something that can be difficult to "be in" for me. Growth mindset is an acceptance of being okay with failure and accepting challenges that may require more than 1, 2, or more attempts at accomplishing.  Also being in a growth mindset means asking for help which is also a difficulty as I am use to finding the solution to a problem by myself. Three reminders of how to keep myself in a growth mindset are:
