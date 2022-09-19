@@ -1,5 +1,5 @@
 # Daily Journal For Intro to Software Development
-I'm Mike McCarty, a future software developer who is currently drinking from the `#f03c15`firehose`#f03c15`!
+I'm Mike McCarty, a future software developer who is currently drinking from the ##firehose##!
 
 
 ## Growth Mindset
