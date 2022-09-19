@@ -1,4 +1,4 @@
-# Daily Journal For Intro to Software Development
+# Lab 01 For Learning Markdown by Mike McCarty
 I'm Mike McCarty, a future software developer who is currently drinking from the **firehose**!
 
 
@@ -9,10 +9,10 @@ For someone who tries to be a perfectionist, growth mindset is something that ca
 - Always take a breath. Getting to a place of being "stuck" means I need to take a step back, breathe, and try again. Being in a positive mindset means that taking multiple opportunities to find a solution
 
 ## Who Is Mike McCarty?
-A Navy veteran who served on 2 different submarines, first as <mark>Nuclear</mark> Systems Mechanic, then as a <mark>Nuclear</mark> Systems supervisor. Constantly being at sea was not the long term career choice I wanted and found my second career in Information Technology (IT). Started out where many others start in IT at the Help Desk and help many titles some of which included systems administrator, network engineer, & crypto device SME (subject matter expert.) My favorite position was as an instructor at [Year Up](https://www.yearup.org/locations/wa-seattle-scc-campus) in Seattle, WA. Helping young adults learn about IT and gaining entry into a Helpdesk or Desktop Support position was very rewarding.  It was by far my favorite job.
+A Navy veteran who spent almost 12 years serving on 2 different submarines, first as <mark>Nuclear</mark> systems mechanic, then as a <mark>Nuclear</mark> systems supervisor. Constantly being at sea was not the long term career choice I wanted and found my second career in Information Technology (IT). Started out where many others start in IT at the Help Desk and help many titles some of which included systems administrator, network engineer, & crypto device SME (subject matter expert.) My favorite position was as an instructor at [Year Up](https://www.yearup.org/locations/wa-seattle-scc-campus) in Seattle, WA. Helping young adults learn about IT and gaining entry into a Helpdesk or Desktop Support position was very rewarding.  It has been by far my favorite job due to the work and more importantly the people I worked with and the students I served.
 
 I live near Elma, WA, a town west of Olympia and about a 20 minute drive.  My life is with my amazing wife Jennifer and our two dogs, Blondie and Laszlo.  Blondie is a four year old half-lab/half-whippet and Laszlo is a year old black lab.  Below are the two of them in more calmer times when Laszlo was just 2 months old before he got a lot *bigger*. 
 ![This is an image of Blondie and Laszlo](blondieandlaszlo.jpg)
 
-## My Portfolio Page
+## GitGub
 [Mike's GitHub Portfolio Page](https://github.com/mikemac1)
