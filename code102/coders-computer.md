@@ -42,15 +42,15 @@ Bash (Bourne again shell): The most common shell.
 - .. (dotdot)- a reference to the parent directory.
 
 #### Commands
-pwd - print working directory
-ls - list the contents of the current directory
-ls -a - will show all contents and hidden files & folders
-clear - clears the terminal window
-mkdir - make directory
-mkdir <pass the name of the folder> - AVOID spaces and capital letters
-cd - change directory
-cd .. - moves to the directory above (however many levels you want to move - it is that number plus 1 EXAMPLE four levels = 5 dots)
-touch - will create a new file
-touch <pass the name of the file to be created> EXAMPLE touch readme.md
-code . - Will open VS Code in that folder
-tree - provide a visual display of file structure
+- pwd: print working directory
+- ls: list the contents of the current directory
+- ls -a: will show all contents and hidden files & folders
+- clear: clears the terminal window
+- mkdir: make directory
+- mkdir <pass the name of the folder>: AVOID spaces and capital letters
+- cd: change directory
+- cd ..: moves to the directory above (however many levels you want to move - it is that number plus 1 EXAMPLE four levels = 5 dots)
+- touch: will create a new file
+- touch <pass the name of the file to be created>: EXAMPLE touch readme.md
+- code .: Will open VS Code in that folder
+- tree: provide a visual display of file structure
