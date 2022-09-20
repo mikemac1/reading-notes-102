@@ -12,11 +12,12 @@ I live near Elma, WA, a town west of Olympia and about a 20 minute drive.  My li
 
 ![This is an image of Blondie and Laszlo](blondieandlaszlo.jpg)
 
-## GitGub
+## GitGub Portfolio
 
 [Mike's GitHub Portfolio Page](https://github.com/mikemac1)
 
 ## 102 Table of Contents
 
+- [Reading Assignment 01](first-markdown.md)
 - [Reading Assignment 02](coders-computer.md)
 - [Reading Assignment 03](git.md)
