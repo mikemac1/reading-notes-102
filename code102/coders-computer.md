@@ -37,9 +37,9 @@ Shell: a part of the operating system that defines how the terminal will behave 
 Bash (Bourne again shell): The most common shell.
 
 #### Paths
-~ (tilde) - a shortcut for the home directory.
-. (dot) - a reference to the current directory.
-.. (dotdot)- a reference to the parent directory.
+- ~ (tilde) - a shortcut for the home directory.
+- . (dot) - a reference to the current directory.
+- .. (dotdot)- a reference to the parent directory.
 
 #### Commands
 pwd - print working directory
