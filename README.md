@@ -19,4 +19,4 @@ I live near Elma, WA, a town west of Olympia and about a 20 minute drive.  My li
 [Mike's GitHub Portfolio Page](https://github.com/mikemac1)
 
 ## Assignments
-[102 - Reading](https://mikemac1.github.io/reading-notes/coders-computer.md)
+[102 - Reading](https://mikemac1.github.io/reading-notes-102/coders-computer.md)
