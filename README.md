@@ -20,4 +20,5 @@ I live near Elma, WA, a town west of Olympia and about a 20 minute drive.  My li
 
 - [Reading Assignment 01](first-markdown.md)
 - [Reading Assignment 02](coders-computer.md)
+- [Lab Assignment 01b](learning-markdown.md)
 - [Reading Assignment 03](git.md)
