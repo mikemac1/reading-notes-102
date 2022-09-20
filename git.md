@@ -5,9 +5,7 @@ Version control can also be termed source control, is the practice of programmer
 
 ### Version Control Types
 - Local Version Control System (VCS): a local VCS has one database on a user's hard druve that stores changes to files.
-
 - Centralized Version Control: need for collaboration within a team on a single file or set of files led a system with a single server storing all changes and file versions, which can be accessed by various clients. 
-
 - Distributed Version Control: a Distributed Version Control systemsaddresses the major vulnerability of the CVS with the server as a single point of failure. If a CVS goes down, collaborators cannot work with each other on a file or save changes and new versions. To prevent this type of loss, a DVCS allows clients to create mirrored repositories. Programmers working in teams can collaborate with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows.
 
 ### What is Git?
