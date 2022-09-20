@@ -24,7 +24,6 @@ Text editors via a third party:
 - Visual Studio Code or VS Code (Windows, Mac, and Linux)
 - Atom (Windows, Mac, and Linux)
 
-
 ## Using The Terminal
 
 #### Opening The Terminal
