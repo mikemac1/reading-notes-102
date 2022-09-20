@@ -9,7 +9,7 @@ A wireframe is low density design plan of what the architecture will look like. 
 
 The important thing to note about wireframes is to keep it simple and answer some basic questions about the site. For example:
 
-- Is it a mobile device or is it a desktop monitor? 
+- Is it a mobile device or is it a desktop monitor?
 - On the home page does the user login?
 - Where might the logo of the company reside?
 - Are there going to be links to the organization's social media sites?
