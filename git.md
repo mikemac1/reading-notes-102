@@ -27,18 +27,6 @@ Here is a pictorial of the above states:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### References
 - [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
