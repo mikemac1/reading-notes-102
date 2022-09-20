@@ -64,3 +64,7 @@ Bash (Bourne again shell): The most common shell.
 - touch (pass the name of the file to be created): EXAMPLE touch readme.md
 - code .: Will open VS Code in that folder
 - tree: provide a visual display of file structure
+
+### Return
+
+[Home Page](README.md)

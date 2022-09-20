@@ -29,3 +29,7 @@ The idea behind this is to practice using the markdown syntax to enable tracking
    > To show ***extra*** emphasis on text is using three asterisks to make text bold & italicized.
 
 The examples above were selected based on the Markdown spec.  The examples above and a more complete list of Markdown's syntax rules visit [Markdown Guide](https://www.markdownguide.org/basic-syntax/#overview)
+
+### Return
+
+[Home Page](README.md)

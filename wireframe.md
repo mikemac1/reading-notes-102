@@ -70,4 +70,6 @@ References:
 - [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-- [Home Page](README.md)
+### Return
+
+[Home Page](README.md)

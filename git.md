@@ -28,3 +28,7 @@ Here is a pictorial of the above states:
 - [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 - [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+### Return
+
+[Home Page](README.md)
