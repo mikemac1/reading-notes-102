@@ -1,24 +1,28 @@
-# Lab 01 For Learning Markdown by Mike McCarty
+# Lab 01 Learning Markdown
+
 I'm Mike McCarty, a future software developer who is currently drinking from the coding **firehose**!
 
-
 ## Growth Mindset
+
 For someone who tries to be a perfectionist, growth mindset is something that can be difficult to "be in" for me. Growth mindset is an acceptance of being okay with failure and accepting challenges that may require more than 1, 2, or more attempts at accomplishing.  Also being in a growth mindset means asking for help which is also a difficulty as I am use to finding the solution to a problem by myself. Three reminders of how to keep myself in a growth mindset are:
+
 - Everyone learns at different rates. I need to be okay with failing and that failing means I am learning. I need to tell myself at the beginning of each day, "I will fail and that is okay."
-- This isn't a race. I can be competitive and Code Fellows is not about being the best, it is about learning. 
+- This isn't a race. I can be competitive and Code Fellows is not about being the best, it is about learning.
 - Always take a breath. Getting to a place of being "stuck" means I need to take a step back, breathe, and try again. Being in a positive mindset means that taking multiple opportunities to find a solution
 
-
 ## Who Is Mike McCarty?
-A Navy veteran who spent almost 12 years serving on 2 different submarines, first as <mark>Nuclear</mark> systems mechanic, then as a <span>&#9762;</span> systems supervisor. Constantly being at sea was not the long term career choice I wanted and found my second career in Information Technology (IT). Started out where many others start in IT at the Help Desk and help many titles some of which included systems administrator, network engineer, & crypto device SME (subject matter expert.) My favorite position was as an instructor at [Year Up](https://www.yearup.org/locations/wa-seattle-scc-campus) in Seattle, WA. Helping young adults learn about IT and gaining entry into a Helpdesk or Desktop Support position was very rewarding.  It has been by far my favorite job due to the work and more importantly the people I worked with and the students I served.
 
-I live near Elma, WA, a town west of Olympia and about a 20 minute drive.  My life is with my amazing wife Jennifer and our two dogs, Blondie and Laszlo.  Blondie is a four year old half-lab/half-whippet and Laszlo is a year old black lab.  Below are the two of them in more calmer times when Laszlo was just 2 months old before he got a lot *bigger*. 
+A Navy veteran who spent almost 12 years serving on 2 different submarines, first as ==Nuclear== systems mechanic, then as a ==Nuclear== systems supervisor. Constantly being at sea was not the long term career choice I wanted and found my second career in Information Technology (IT). Started out where many others start in IT at the Help Desk and help many titles some of which included systems administrator, network engineer, & crypto device SME (subject matter expert.) My favorite position was as an instructor at [Year Up](https://www.yearup.org/locations/wa-seattle-scc-campus) in Seattle, WA. Helping young adults learn about IT and gaining entry into a Helpdesk or Desktop Support position was very rewarding.  It has been by far my favorite job due to the work and more importantly the people I worked with and the students I served.
+
+I live near Elma, WA, a town west of Olympia and about a 20 minute drive.  My life is with my amazing wife Jennifer and our two dogs, Blondie and Laszlo.  Blondie is a four year old half-lab/half-whippet and Laszlo is a year old black lab.  Below are the two of them in more calmer times when Laszlo was just 2 months old before he got a lot *bigger*.
+
 ![This is an image of Blondie and Laszlo](blondieandlaszlo.jpg)
 
 ## GitGub
+
 [Mike's GitHub Portfolio Page](https://github.com/mikemac1)
 
 ## 102 Assignments
+
 - [Reading Assignment 02](coders-computer.md)
 - [Reading Assignment 03](git.md)
-- 
