@@ -5,7 +5,7 @@
 A wireframe is low density design plan of what the architecture will look like. Wireframes are created for each different screeen of an app as an example.  There are two types but they are both made up of same basic fundamental shapes to represent the key elements of what a user would see on a screen in their simplest form. They are:
 
     - Hand drawn sketch: is simply using paper, pen or marker
-    - Digital: can be used from a variety of different tools such as balsamiq, margel or wireframe cc. There are free and paid versions of tools.
+    - Digital: a variety of different tools available both paid & free. These include balsamiq, margel or wireframe cc.
 
 The important thing to note about wireframes is to keep it simple and answer some basic questions about the site. For example:
 
