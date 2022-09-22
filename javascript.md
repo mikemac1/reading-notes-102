@@ -39,9 +39,9 @@ That code can basically be translated to the following English sentence:
 
 A variable means anything that can vary. In JS, a variable stores the data value that can be changed later on. There are three reseerved keywords to declare a variable they const, let, & var.
 
-- **var**: The var keyword is used in all JS code from 1995 to 2015. If a developer wants to run code in older browsers, you must use var.
-- **const**: was a keyword were added to JS in 2015. The general rule is to always declare variables with const. Unless...
-- **let**: If you think the value of the variable can change, use let. Let was a keyword were added to JS in 2015.
+- `**`var`: The var keyword is used in all JS code from 1995 to 2015. If a developer wants to run code in older browsers, you must use var.
+- `const`: was a keyword were added to JS in 2015. The general rule is to always declare variables with const. Unless...
+- `let`: If you think the value of the variable can change, use let. Let was a keyword were added to JS in 2015.
 
 References:
 
