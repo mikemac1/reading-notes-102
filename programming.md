@@ -92,7 +92,7 @@ JS operators perform some operation on single or multiple operands (some data va
 'Operator' - Description  
 'typeof' - Returns the type of a variable
 
-'instanceof' - Returns true if an object is an instance of an object type
+==instanceof== - Returns true if an object is an instance of an object type
 
 References:
 
