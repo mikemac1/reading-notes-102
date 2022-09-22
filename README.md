@@ -25,3 +25,4 @@ I live near Elma, WA, a town west of Olympia and about a 20 minute drive.  My li
 - [Reading Assignment 04](wireframe.md)
 - [Reading Assignment 05](css.md)
 - [Reading Assignment 06](javascript.md)
+- [Reading Assignment 07](programming.md)
