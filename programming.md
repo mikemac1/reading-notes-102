@@ -27,72 +27,72 @@ JS operators perform some operation on single or multiple operands (some data va
 
 ### Types of JS Operators
 
-- **Arithmetic Operators**: used to perform mathematical operations between numeric operands.
+**Arithmetic Operators**: used to perform mathematical operations between numeric operands.
 
-    'Operator' - Description  
-    '+' - Addition
+'Operator' - Description  
+'+' - Addition
 
-    '-' - Subtraction
+'-' - Subtraction
 
-    '*' - Multiplication
+'*' - Multiplication
 
-    '**' - Exponentiation
+'**' - Exponentiation
 
-    '/' - Division
+'/' - Division
 
-    '%' - Modulus (Division Remainder)
+'%' - Modulus (Division Remainder)
 
-    '++' - Increment
+'++' - Increment
 
-    '--' - Decrement
+'--' - Decrement
 
-- **Comparison Operators**: comparison operators that compare two operands and return a boolean value true or false.
+**Comparison Operators**: comparison operators that compare two operands and return a boolean value true or false.
 
-    'Operator' - Description  
-    '==' - Compares the equality of two operands without considering type.
+'Operator' - Description  
+'==' - Compares the equality of two operands without considering type.
 
-    '===' - Compares equality of two operands with type.
+'===' - Compares equality of two operands with type.
 
-    '!=' - Compares inequality of two operands
+'!=' - Compares inequality of two operands
 
-    '>' - Returns a boolean value true if the left-side value is greater than the right-side value; otherwise, returns false.
+'>' - Returns a boolean value true if the left-side value is greater than the right-side value; otherwise, returns false.
 
-    '<' - Returns a boolean value true if the left-side value is less than the right-side value; otherwise, returns false.
+'<' - Returns a boolean value true if the left-side value is less than the right-side value; otherwise, returns false.
 
-    '>=' - Returns a boolean value true if the left-side value is greater than or equal to the right-side value; otherwise, returns false.
+'>=' - Returns a boolean value true if the left-side value is greater than or equal to the right-side value; otherwise, returns false.
 
-    '<=' -Returns a boolean value true if the left-side value is less than or equal to the right-side value; otherwise, returns false.
+'<=' -Returns a boolean value true if the left-side value is less than or equal to the right-side value; otherwise, returns false.
 
-- **Assignment Operators**: provides the assignment operators to assign values to variables with less key strokes.
+**Assignment Operators**: provides the assignment operators to assign values to variables with less key strokes.
 
-    'Operator' - Description  
-    '=' - Assigns right operand value to the left operand.
+'Operator' - Description  
+'=' - Assigns right operand value to the left operand.
 
-    '+=' - Sums up left and right operand values and assigns the result to the left operand.
+'+=' - Sums up left and right operand values and assigns the result to the left operand.
 
-    '-=' - Subtract right operand value from the left operand value and assigns the result to the left operand.
+'-=' - Subtract right operand value from the left operand value and assigns the result to the left operand.
 
-    '*=' - Multiply left and right operand values and assigns the result to the left operand.
+'*=' - Multiply left and right operand values and assigns the result to the left operand.
 
-    '/=' - Divide left operand value by right operand value and assign the result to the left operand.
+'/=' - Divide left operand value by right operand value and assign the result to the left operand.
 
-    '%=' - Get the modulus of left operand divide by right operand and assign resulted modulus to the left operand.
+'%=' - Get the modulus of left operand divide by right operand and assign resulted modulus to the left operand.
 
-- **Logical Operators**: used to combine two or more conditions. JavaScript provides the following logical operators.
+**Logical Operators**: used to combine two or more conditions. JavaScript provides the following logical operators.
 
-    'Operator' - Description  
-    '&&' - known as **AND** operator. It checks whether two operands are non-zero or not (0, false, undefined, null or "" are considered as zero). It returns 1 if they are non-zero; otherwise, returns 0.
+'Operator' - Description  
+'&&' - known as **AND** operator. It checks whether two operands are non-zero or not (0, false, undefined, null or "" are considered as zero). It returns 1 if they are non-zero; otherwise, returns 0.
 
-    '||' - known as **OR** operator. It checks whether any one of the two operands is non-zero or not (0, false, undefined, null or "" is considered as zero). It returns 1 if any one of of them is non-zero; otherwise, returns 0.
+'||' - known as **OR** operator. It checks whether any one of the two operands is non-zero or not (0, false, undefined, null or "" is considered as zero). It returns 1 if any one of of them is non-zero; otherwise, returns 0.
 
-    '!' - known as **NOT** operator. It reverses the boolean result of the operand (or condition). !false returns true, and !true returns false.
+'!' - known as **NOT** operator. It reverses the boolean result of the operand (or condition). !false returns true, and !true returns false.
 
-- **Type Operators**:
+**Type Operators**:
 
-    'Operator' - Description  
-    'typeof' - Returns the type of a variable
+'Operator' - Description  
+'typeof' - Returns the type of a variable
 
-    'instanceof' - Returns true if an object is an instance of an object type
+'instanceof' - Returns true if an object is an instance of an object type
 
 References:
 
