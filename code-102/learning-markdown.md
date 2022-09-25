@@ -10,4 +10,4 @@ For someone who tries to be a perfectionist, growth mindset is something that ca
 
 ### Return
 
-[Home Page](README.md)
+[Home Page](/code-102/README.md)

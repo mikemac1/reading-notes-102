@@ -2,7 +2,7 @@
 
 This site holds all notes for Code Fellows' 201 Foundations of Software Development. !
 
-## 201 Table of Contents
+## Code 201 Table of Contents
 
 - [Reading Assignment 01](/code-201/notyet.md)
 - [Reading Assignment 02](/code-201/notyet.md)
@@ -20,7 +20,7 @@ This site holds all notes for Code Fellows' 201 Foundations of Software Developm
 - [Reading Assignment 14](/code-201/notyet.md)
 - [Reading Assignment 15](/code-201/notyet.md)
 
-## 102 Table of Contents
+## Code 102 Table of Contents
 
 - [102 Home Page](/code-102/README.md)
 - [Reading Assignment 01](/code-102/first-markdown.md)
@@ -36,5 +36,7 @@ This site holds all notes for Code Fellows' 201 Foundations of Software Developm
 ## GitGub Portfolio
 
 [Mike's GitHub Portfolio Page](https://github.com/mikemac1)
+
+### Drinking From The Coding *Firehose*
 
 ![This is an image of a computer screen](/code-201/matrix.jpg)

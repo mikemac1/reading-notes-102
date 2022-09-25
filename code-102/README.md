@@ -18,12 +18,12 @@ I live near Elma, WA, a town west of Olympia and about a 20 minute drive.  My li
 
 ## 102 Table of Contents
 
-- [Reading Assignment 01](first-markdown.md)
-- [Reading Assignment 02](coders-computer.md)
-- [Lab Assignment 01b](learning-markdown.md)
-- [Reading Assignment 03](git.md)
-- [Reading Assignment 04](wireframe.md)
-- [Reading Assignment 05](css.md)
-- [Reading Assignment 06](javascript.md)
-- [Reading Assignment 07](programming.md)
-- [Reading Assignment 08](operator-loops.md)
+- [Reading Assignment 01](/code-102/first-markdown.md)
+- [Reading Assignment 02](/code-102/coders-computer.md)
+- [Lab Assignment 01b](/code-102/learning-markdown.md)
+- [Reading Assignment 03](/code-102/git.md)
+- [Reading Assignment 04](/code-102/wireframe.md)
+- [Reading Assignment 05](/code-102/css.md)
+- [Reading Assignment 06](/code-102/javascript.md)
+- [Reading Assignment 07](/code-102/programming.md)
+- [Reading Assignment 08](/code-102/operator-loops.md)
