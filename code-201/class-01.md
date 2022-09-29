@@ -28,7 +28,8 @@ Parsing is a very critical step from having a webpage on a server to seeing the 
 ### How To find Images To Add To A Website
 
 The issue is never about finding an image that looks good. The issue for me as a developer is to ensure that an image is not copyrighted. The easiest way is to utilize Google's image search feature and in options use the "Creative Commons licenses" selection to ensure the image is available for usage.
-![Google image example](/code-201/cclicense.PNG)
+
+![Example searching for creative commons](/code-201/cclicense.jpg)
 
 ### "String" vs A Number
 
