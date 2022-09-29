@@ -37,7 +37,7 @@ This site holds all notes for Code Fellows' 201 Foundations of Software Developm
 
 [Mike's GitHub Portfolio Page](https://github.com/mikemac1)
 
-===
+---
 
 ## My Personal Experience So Far
 
