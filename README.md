@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-This site holds all notes for Code Fellows' 201 Foundations of Software Development. !
+This site holds all notes for Code Fellows' 201 Foundations of Software Development. This will be my best effort to preview the next day's activities, record a summary of what I have read and record what I have questions on or challenges to understanding.
 
 ## Code 201 Table of Contents
 
@@ -37,6 +37,10 @@ This site holds all notes for Code Fellows' 201 Foundations of Software Developm
 
 [Mike's GitHub Portfolio Page](https://github.com/mikemac1)
 
-### Drinking From The Coding *Firehose*
+===
+
+## My Personal Experience So Far
+
+I am currently drinking from the coding *Firehose*
 
 ![This is an image of a computer screen](/code-201/matrix.jpg)
