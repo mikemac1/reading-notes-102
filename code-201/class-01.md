@@ -111,11 +111,19 @@ What exactly the builder wants to accomplish is the most important question to b
 
 ### Why should you use an 'h1' element over a 'span' element to display a top level heading
 
-utilizing an `h1` element delineates the text it wraps as the top level heading for the page. Using the `span` element means the content does not inherently represent anything and is a generic inline container for phrasing content.
+Utilizing an `h1` element delineates the text it wraps as the top level heading for the page. Using the `span` element means the content does not inherently represent anything and is a generic inline container for phrasing content.
 
 ### What are the benefits of using semantic tags in our HTML
 
+The following benefits are due to the use of semantic tags in HTMLs:
+
+- semantic tags can assist screen readers for disabled users.
+- with the use of semantic tags provides a coder an easier time of finding blocks of meaningful code.
+- it tells the developer the type of data that will be populated
+
 ### Describe 2 things that require JavaScript in the Browser
+
+When a webpage utilizes an API (Application Programming Interface) JS is required to pull the code & data to populate the site. For instance Twitter & Google Maps utilized APIs and the webpage would not work without JS. Another requirement for JS is creating dynamic web pages which take action based on a user action such as mouse click that may generate a video or an audio file is played.
 
 ### How can you add JavaScript to an HTML document
 
@@ -138,3 +146,5 @@ utilizing an `h1` element delineates the text it wraps as the top level heading 
 [How do I start to design a website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
 
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+[What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
