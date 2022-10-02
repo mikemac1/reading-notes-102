@@ -15,11 +15,17 @@
 **E**ach has their distinct role
 
 **F**ollowing the request a response is served
+
 **E**ach HTML response is parsed by the client's browser
+
 **L**onely, the parser encounters a reference to a script file
-**L**oopy, the parser stops parsing & requests the script file.
-**O**rdering the script from the server, the parser executes.
+
+**L**oopy, the parser stops parsing & requests the script file
+
+**O**rdering the script from the server, the parser executes
+
 **W**hile the client's browser finishes reading the HTML
+
 **S**ampling the full response, a web page is born
 
     Written by Mike McCarty
@@ -40,7 +46,7 @@ Visualizing a string versus a number in javascript is all about ' ' or " ". For 
 
     - 24
     - "24"
-The first 24 is the number, while "24" is the string.
+      - The first 24 is the number, while "24" is the string.
 
 ### What is a Variable and why are they important in JS
 
@@ -48,11 +54,11 @@ A variable can be considered a proxy, to a permanent or temporary place that hol
 
 ### What is an HTML Attribute
 
-An attribute provides an option(s) to add to additional functionality to an HTML element. One example of that functionality is to add a class or id to an HTML element to provide CSS style properties to the element on a page. Another example can be to provide dimensions to a picture in the 'img' element overriding the inherent dimensions the picture already has.
+An attribute provides an option(s) to add to additional functionality to an HTML element. One example of that functionality is to add a class or id to an HTML element to provide CSS style properties to the element on a page. Another example can be to provide dimensions to a picture in the `img` element overriding the inherent dimensions the picture already has.
 
 ### Describe the Anatomy of an HTMl element
 
-THe construction of an HTML element is to surround content with elements to provide structure for the browser to display. It starts with an opening tag, whether it identifies as a type of heading, place on the page like a header or footer, or maybe it is a paragraph.  Each opening tag may contain some attribute, then the content is listed, and followed by the closing element's tag.  In some instances the opening tag may be self-closing. For example 'img' or 'br'.
+THe construction of an HTML element is to surround content with elements to provide structure for the browser to display. It starts with an opening tag, whether it identifies as a type of heading, place on the page like a header or footer, or maybe it is a paragraph.  Each opening tag may contain some attribute, then the content is listed, and followed by the closing element's tag.  In some instances the opening tag may be self-closing. For example `img` or `br`.
 ![Example of an HTML element](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
 
 **REFERENCE**: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
@@ -66,22 +72,46 @@ Coders will usually use the section element to divide long documents into chapte
 
 HTML utilizes some common tags for typical areas in a website. They are:
 
-- header: 'header'
-- navigation bar: 'nav'
-- main content: 'main' with various content subsections including:
-  - 'article', 'section', and 'div' elements
-- sidebar: 'aside'
-- footer: 'footer'
+- header: `header`
+- navigation bar: `nav`
+- main content: `main` with various content subsections including:
+  - `article`, `section`, and `div` elements
+- sidebar: `aside`
+- footer: `footer`
 
 ### How does metadata influence Search Engine Optimization
 
+Metadata utilizes a content attribute that can contain a description about the site as well as keywords that users may search with. Meta tags are critical because search engines are impacted by what the meta tag displays as users' web inquiry has a similar keyword. As keywords within the meta tag get "hit" by web queries the search engine's results ranking will increase for that site.
+
 ### How is the 'meta' HTML tag used when specifying metadata
+
+There are a few attributes that go with meta that assist in specifying metadata:
+
+- `name`: this provides context for what is within the content attribute. Some of the more common values for name are application-name, author, description, generator, keywords, & viewport.
+- `content`: this attribute will provide text the coder enters based on the value of the name attribute. For example a name value of author will generate the author's name for the page.
+- `charset`: will specify the character set for the browser. In most cases `charset` will be set to UTF-8 encoding which is set by the Unicode standard. This standard is supported in many operating systems and clients' browsers.
+- `viewport`: specifies what a user's visible area for a web page on a device. The attribute's values include width, height, initial-scale, minimum-scale, maximum-scale, and user-scalable.
 
 ### What is the first step to designing a Website
 
+Project ideation is the first step in designing a website. It requires asking some basic questions before even beginning the steps or designing or building the site. The questions to be answered are:
+
+1. **What exactly do I want to accomplish?**
+This question should provide answers to the audience trying to be attracted, the type of goods or services being advertised, the discussions trying to be conversed, or imagery the subject generates.
+
+2. **How will a website help me reach my goals?**
+This question should provide the answer of what makes this site addresses other web sites don't address or do a poor job in conveying.
+
+3. **What needs to be done, and in what order, to reach my goals?**
+Answering what needs to be accomplished must be prioritized. For instance the images that are going to populate the site are they owned by the site owner or do licensing rights have to purchased as a possible task. If goods are going to be purchased by site visitors supply chain management must be considered as a top priority. For all of these examples, practical steps must be identified & prioritized so one step is not waiting on previous steps and delaying the deployment of the site.
+
 ### What is the most important question to answer when designing a Website
 
+What exactly the builder wants to accomplish is the most important question to be answered as it drives everything else.
+
 ### Why should you use an 'h1' element over a 'span' element to display a top level heading
+
+utilizing an `h1` element delineates the text it wraps as the top level heading for the page. Using the `span` element means the content does not inherently represent anything and is a generic inline container for phrasing content.
 
 ### What are the benefits of using semantic tags in our HTML
 
@@ -100,3 +130,11 @@ HTML utilizes some common tags for typical areas in a website. They are:
 [Getting Started With HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+
+[Meta Tages in SEO](https://www.searchenginewatch.com/2018/04/04/a-quick-and-easy-guide-to-meta-tags-in-seo/)
+
+[Standard Meta Tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
+
+[How do I start to design a website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
+
+[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
