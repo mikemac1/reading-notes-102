@@ -59,14 +59,44 @@ THe construction of an HTML element is to surround content with elements to prov
 
 ### What is the Difference between 'article' and 'section' element tags
 
+The HTML article element can be utilized for a specific block of content such as a forum or blog post. The article is going to seperate the content on the page.
+Coders will usually use the section element to divide long documents into chapters, or create different tabs, or divide various themes on the page.
 
+### What Elements does a “typical” website include
+
+HTML utilizes some common tags for typical areas in a website. They are:
+
+- header: 'header'
+- navigation bar: 'nav'
+- main content: 'main' with various content subsections including:
+  - 'article', 'section', and 'div' elements
+- sidebar: 'aside'
+- footer: 'footer'
+
+### How does metadata influence Search Engine Optimization
+
+### How is the 'meta' HTML tag used when specifying metadata
+
+### What is the first step to designing a Website
+
+### What is the most important question to answer when designing a Website
+
+### Why should you use an 'h1' element over a 'span' element to display a top level heading
+
+### What are the benefits of using semantic tags in our HTML
+
+### Describe 2 things that require JavaScript in the Browser
+
+### How can you add JavaScript to an HTML document
 
 ## Summarize This Topic
 
 ## Things I want to know more about
 
-## Sources To Cite
+## Sources Utilized
 
-### Not Yet Ready
+[Article vs Section Elements](https://www.positioniseverything.net/html-article-vs-section)
 
-#### Not Yet Here
+[Getting Started With HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+
+[Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
