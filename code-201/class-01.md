@@ -2,6 +2,8 @@
 
 ## Why This Matters
 
+The reading assignment is really the basics of what happens behind the scenes between the user at their machine to the webpage they are trying to access that resides on the server. It also gives the foundation for the type of elements that make up a typical web page. Including how JavaScript (JS) fits in with the page and why it makes a difference in how users interact with a webpage.
+
 ## Questions To Answer
 
 ### An Acrostic HTML & Parsing Poem
@@ -127,7 +129,11 @@ When a webpage utilizes an API (Application Programming Interface) JS is require
 
 ### How can you add JavaScript to an HTML document
 
-## Summarize This Topic
+There are three options to add JS.
+
+- Internal JavaScript: is the usage of a `script` tag within the `head` element that contains all of the JS code for the page.
+- External JavaScript: found in a single file which several webpages can reference. This provides code reusability and adds speed to maintaining.
+- Inline JavaScript handlers: This is not recommended but the code is written inside a `script` element at a specific location on an HTML document. The reason it is not recommended is it makes it very difficult for developers to maintain as the project scale increases.
 
 ## Things I want to know more about
 
