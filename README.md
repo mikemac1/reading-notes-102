@@ -5,7 +5,7 @@ This site holds all notes for Code Fellows' 201 Foundations of Software Developm
 ## Code 201 Table of Contents
 
 - [Reading Assignment 01](/code-201/class-01.md)
-- [Reading Assignment 02](/code-201/notyet.md)
+- [Reading Assignment 02](/code-201/class-02.md)
 - [Reading Assignment 03](/code-201/notyet.md)
 - [Reading Assignment 04](/code-201/notyet.md)
 - [Reading Assignment 05](/code-201/notyet.md)
