@@ -1,4 +1,4 @@
-# Read 01
+# Reading Assignment 01
 
 ## Why This Matters
 
@@ -32,7 +32,7 @@ The reading assignment is really the basics of what happens behind the scenes be
 
     Written by Mike McCarty
 
-### Describe How HTML, CSS, and JS files Are “Parsed”
+### Describe How HTML, CSS, and JS Files Are “Parsed”
 
 Parsing is a very critical step from having a webpage on a server to seeing the page on the user's screen. A client's browser must have the HTML data and links to external CSS & JS files. The intial step for parsing is building the page based on the DOM (Document Object Model) & utilizing tokens. The tokens can assign specific pieces that represent pieces of the DOM and to be requested from the server. It is important for developers to understand this process as it greatly impacts latency & how the client's machine is single threaded. Bottom line a user wants their page quickly and design of a webpage can impact how a browser parses the HTML, CSS, & JS data.
 
@@ -50,11 +50,11 @@ Visualizing a string versus a number in javascript is all about ' ' or " ". For 
     - "24"
       - The first 24 is the number, while "24" is the string.
 
-### What is a Variable and why are they important in JS
+### What Is A Variable And Why Are They Important In JS
 
 A variable can be considered a proxy, to a permanent or temporary place that holds some value whether it be a string, number or an object. Having a variable makes JS powerful for a couple of reasons. One it gives the programmer an easy way to store a value by giving it a name that makes sense to those who are reading the code. Second, the fact that variables can temporarily store a value gives JS the ability to have a variable a part of a function that asks a user a question or has a graphic move on a website.
 
-### What is an HTML Attribute
+### What Is An HTML Attribute
 
 An attribute provides an option(s) to add to additional functionality to an HTML element. One example of that functionality is to add a class or id to an HTML element to provide CSS style properties to the element on a page. Another example can be to provide dimensions to a picture in the `img` element overriding the inherent dimensions the picture already has.
 
@@ -65,12 +65,12 @@ THe construction of an HTML element is to surround content with elements to prov
 
 **REFERENCE**: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
-### What is the Difference between 'article' and 'section' element tags
+### What Is The Difference Between `article` And `section` Element Tags
 
 The HTML article element can be utilized for a specific block of content such as a forum or blog post. The article is going to seperate the content on the page.
 Coders will usually use the section element to divide long documents into chapters, or create different tabs, or divide various themes on the page.
 
-### What Elements does a “typical” website include
+### What Elements Does A “Typical” Website Include
 
 HTML utilizes some common tags for typical areas in a website. They are:
 
@@ -81,20 +81,20 @@ HTML utilizes some common tags for typical areas in a website. They are:
 - sidebar: `aside`
 - footer: `footer`
 
-### How does metadata influence Search Engine Optimization
+### How Does Metadata Influence Search Engine Optimization
 
 Metadata utilizes a content attribute that can contain a description about the site as well as keywords that users may search with. Meta tags are critical because search engines are impacted by what the meta tag displays as users' web inquiry has a similar keyword. As keywords within the meta tag get "hit" by web queries the search engine's results ranking will increase for that site.
 
-### How is the 'meta' HTML tag used when specifying metadata
+### How Is The `meta` HTML Tag Used When Specifying Metadata
 
-There are a few attributes that go with meta that assist in specifying metadata:
+There are a few attributes that go with `meta` that assist in specifying metadata:
 
 - `name`: this provides context for what is within the content attribute. Some of the more common values for name are application-name, author, description, generator, keywords, & viewport.
 - `content`: this attribute will provide text the coder enters based on the value of the name attribute. For example a name value of author will generate the author's name for the page.
 - `charset`: will specify the character set for the browser. In most cases `charset` will be set to UTF-8 encoding which is set by the Unicode standard. This standard is supported in many operating systems and clients' browsers.
 - `viewport`: specifies what a user's visible area for a web page on a device. The attribute's values include width, height, initial-scale, minimum-scale, maximum-scale, and user-scalable.
 
-### What is the first step to designing a Website
+### What Is The First Step To Designing A Website
 
 Project ideation is the first step in designing a website. It requires asking some basic questions before even beginning the steps or designing or building the site. The questions to be answered are:
 
@@ -107,27 +107,27 @@ This question should provide the answer of what makes this site addresses other 
 3. **What needs to be done, and in what order, to reach my goals?**
 Answering what needs to be accomplished must be prioritized. For instance the images that are going to populate the site are they owned by the site owner or do licensing rights have to purchased as a possible task. If goods are going to be purchased by site visitors supply chain management must be considered as a top priority. For all of these examples, practical steps must be identified & prioritized so one step is not waiting on previous steps and delaying the deployment of the site.
 
-### What is the most important question to answer when designing a Website
+### What Is The Most Important Question To Answer When Designing A Website
 
 What exactly the builder wants to accomplish is the most important question to be answered as it drives everything else.
 
-### Why should you use an 'h1' element over a 'span' element to display a top level heading
+### Why Should You Use An `h1` Element Over A `span` Element To Display A Top Level Heading
 
-Utilizing an `h1` element delineates the text it wraps as the top level heading for the page. Using the `span` element means the content does not inherently represent anything and is a generic inline container for phrasing content.
+Utilizing an `h1` element delineates the text it wraps as the top level heading for the page. Using the `span` element means the content does not inherently represent anything and is a generic inline container for phrasing content. Not using the semantic elements for what they were designed for hinders follow on development as coders will have to interpret what the original developer was attempting to code.
 
-### What are the benefits of using semantic tags in our HTML
+### What Are The Benefits Of Using Semantic Tags In Our HTML
 
-The following benefits are due to the use of semantic tags in HTMLs:
+The following benefits are due to the use of semantic tags in HTML:
 
 - semantic tags can assist screen readers for disabled users.
 - with the use of semantic tags provides a coder an easier time of finding blocks of meaningful code.
 - it tells the developer the type of data that will be populated
 
-### Describe 2 things that require JavaScript in the Browser
+### Describe 2 Things That Require JS In The Browser
 
 When a webpage utilizes an API (Application Programming Interface) JS is required to pull the code & data to populate the site. For instance Twitter & Google Maps utilized APIs and the webpage would not work without JS. Another requirement for JS is creating dynamic web pages which take action based on a user action such as mouse click that may generate a video or an audio file is played.
 
-### How can you add JavaScript to an HTML document
+### How Can You Add JS To An HTML Document
 
 There are three options to add JS.
 
@@ -135,7 +135,7 @@ There are three options to add JS.
 - External JavaScript: found in a single file which several webpages can reference. This provides code reusability and adds speed to maintaining.
 - Inline JavaScript handlers: This is not recommended but the code is written inside a `script` element at a specific location on an HTML document. The reason it is not recommended is it makes it very difficult for developers to maintain as the project scale increases.
 
-## Things I want to know more about
+## Things I Want To Know More About
 
 ## Sources Utilized
 
