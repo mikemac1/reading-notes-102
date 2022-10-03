@@ -36,7 +36,7 @@ The reading assignment is really the basics of what happens behind the scenes be
 
 Parsing is a very critical step from having a webpage on a server to seeing the page on the user's screen. A client's browser must have the HTML data and links to external CSS & JS files. The intial step for parsing is building the page based on the DOM (Document Object Model) & utilizing tokens. The tokens can assign specific pieces that represent pieces of the DOM and to be requested from the server. It is important for developers to understand this process as it greatly impacts latency & how the client's machine is single threaded. Bottom line a user wants their page quickly and design of a webpage can impact how a browser parses the HTML, CSS, & JS data.
 
-### How To find Images To Add To A Website
+### How To Find Images To Add To A Website
 
 The issue is never about finding an image that looks good. The issue for me as a developer is to ensure that an image is not copyrighted. The easiest way is to utilize Google's image search feature and in options use the "Creative Commons licenses" selection to ensure the image is available for usage.
 
