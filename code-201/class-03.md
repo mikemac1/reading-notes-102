@@ -2,6 +2,8 @@
 
 ## Why This Matters
 
+The HTML & CSS sections were straightforward and really built on the previous class.  The JS section took a large jump forward and I was guessing at what the code examples were telling me.
+
 ## Questions To Answer
 
 ### When Should You Use An `Unordered List` In Your HTML Document
@@ -12,7 +14,7 @@ An unordered list is utilized when the order of the item is meaningless.
 
 The bullet style can be change with the use of the `type` attribute. The values it supports are circle, disc, and square. Some browsers will also support triangle for the value.
 
-### When Should You Use An Ordered List vs An Unorder List In Your HTML Document
+### When Should You Use An Ordered List vs An Unordered List In Your HTML Document
 
 Using an ordered list means the order is meaningful like using steps for making a meal or directions from one location to another. An unordered list does not require the items to be in order and no item has one priority over another.
 
@@ -56,7 +58,7 @@ Yes the `people` array is an array with three nested arrays. Yes the values can 
 
 `x -= 1`: is saying x = x - 1 so the variable is decrementing by subtracting 1 to itself.
 
-`X *= 2`: is saying x = x x 2 so the variable is increasing by multiplying 2 to itself.
+`X *= 2`: is saying x = x * 2 so the variable is increasing by multiplying 2 to itself.
 
 `X /= 2`: is saying x = x / 2 so the variable is decreasing by dividing 2 to itself.
 
@@ -78,13 +80,15 @@ When there is a finite number of attempts at some function is required a loop is
 
 ## Things I Want To Know More About
 
+- The expressions and operators section of the JS module is scary. I read through it completely once and there were parts I had no clue what it was trying to tell me. The examples made no sense at all as there were pieces of code I had never seen before...
+
 ## Sources Utilized
 
 [`ol`: The Ordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 
 [`ul`: The Unordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
-[HTML Ordered List | HTML Numbered List](https://www.javatpoint.com/html-ordered-list)
+[HTML Ordered List HTML Numbered List](https://www.javatpoint.com/html-ordered-list)
 
 [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
