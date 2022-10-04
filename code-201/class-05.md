@@ -4,25 +4,25 @@
 
 ## Questions To Answer
 
-### What is a real world use case for the alt attribute being used in a website?
+### What Is A Real World Use Case For The Alt Attribute Being Used In A Website
 
-### How can you improve accessibility of images in an HTML document?
+### How Can You Improve Accessibility Of Images In An HTML Document
 
-### Provide an example of when the figure element would be useful in an HTML document
+### Provide An Example Of When The Figure Element Would Be Useful In An HTML Document
 
-### Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community
+### Describe The Difference Between A gif Image And An svg Image, Pretend You Are Explaining To An Elder In Your Community
 
-### What image type would you use to display a screenshot on your website and why?
+### What Image Type Would You Use To Display A Screenshot On Your Website And Why
 
-### Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge
+### Describe The Difference Between Foreground And Background Colors Of An HTML Element, Pretend You Are Talking To Someone With No Technical Knowledge
 
-### Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character
+### Your Friend Asks You To Give His Colorless Blog Website A Touch Up. How Would You Use Color To Give His Blog Some Character
 
-### What should you consider when choosing fonts for an HTML document
+### What Should You Consider When Choosing Fonts For An HTML Document
 
-### What do font-size, font-weight, and font-style do to HTML text elements
+### What Do Font-Size, Font-Weight, And Font-Style Do To HTML Text Elements
 
-### Describe two ways you could add spacing around the characters displayed in an h1 element
+### Describe Two Ways You Could Add Spacing Around The Characters Displayed In An `h1` Element
 
 ## Sources Utilized
 
