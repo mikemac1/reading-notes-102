@@ -28,7 +28,11 @@ I would use a PNG format to display a screenshot because it is high quality with
 
 ### Describe The Difference Between Foreground And Background Colors Of An HTML Element, Pretend You Are Talking To Someone With No Technical Knowledge
 
+When thinking of the difference between the foreground color and background color, a good analogy is using a great picture of a family. The family is the focus of the picture to see everyone's smiling faces which is the foreground, while the area behind the family is considered the background and not as much focus is placed however the color of the background can enhance the focus on the family.
+
 ### Your Friend Asks You To Give His Colorless Blog Website A Touch Up. How Would You Use Color To Give His Blog Some Character
+
+The Adobe color wheel has some interesting features that allows a developer to select multiple colors that are complimentary to each other. Using a set color selection allows multiple elements such as text, background, shadow, border, and other elements to look like they should go together.
 
 ### What Should You Consider When Choosing Fonts For An HTML Document
 
@@ -42,11 +46,11 @@ I would use a PNG format to display a screenshot because it is high quality with
 
 [Image file type and format guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)
 
+[Applying color to HTML elements using CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
 
 
 
 
-[Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 
 [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
 
