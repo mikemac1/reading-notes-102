@@ -4,7 +4,9 @@
 
 ## Questions To Answer
 
-### What Is A Real World Use Case For The Alt Attribute Being Used In A Website
+### What Is A Real World Use Case For The `alt` Attribute Being Used In A Website
+
+Having a visually impaired user having a screeen reader read the content will read the `alt` text to give the user an understanding of what the image is.
 
 ### How Can You Improve Accessibility Of Images In An HTML Document
 
@@ -26,7 +28,9 @@
 
 ## Sources Utilized
 
-[Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+[Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+
+
 
 [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
 
