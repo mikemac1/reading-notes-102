@@ -52,6 +52,10 @@ The one most significant factor when choosing a font is availability. The machin
 
 One is the use of `letter-spacing` or `word-spacing` which can be maninpulated using number of px and the other is using `font-kerning` which has an auto, normal, and none values.
 
+## Things I Want To Know More About
+
+I need to look at finding a source on strategies of how certain colors go together between fonts, borders, and backgrounds to give a sharp & modern look.
+
 ## Sources Utilized
 
 [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
