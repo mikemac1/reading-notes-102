@@ -9,7 +9,7 @@ This site holds all notes for Code Fellows' 201 Foundations of Software Developm
 - [Reading Assignment 03](/code-201/class-03.md)
 - [Reading Assignment 04](/code-201/class-04.md)
 - [Reading Assignment 05](/code-201/class-05.md)
-- [Reading Assignment 06](/code-201/notyet.md)
+- [Reading Assignment 06](/code-201/class-06.md)
 - [Reading Assignment 07](/code-201/notyet.md)
 - [Reading Assignment 08](/code-201/notyet.md)
 - [Reading Assignment 09](/code-201/notyet.md)
