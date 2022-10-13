@@ -2,6 +2,8 @@
 
 ## Why This Matters
 
+When it comes to gaining insight to a user, forms are definitely a difference maker. To be able to collect data from a user from getting a grocery order to applying for college, the need to go anywhere has been reduced greatly. It is technologies like forms that can have a great deal of impact if written correctly.
+
 ## Questions To Answer
 
 ### Why are forms so important in web development?
