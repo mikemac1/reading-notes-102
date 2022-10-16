@@ -13,6 +13,7 @@ Simply, video and audio formats were very limited with both the available types 
 ### Describe the use of the `src` and `controls` attributes in the `<video>` element
 
 `controls`: are an attribute that will give the browser controls to allow the user to control video playback, including volume, seeking, and pause/resume playback.
+
 `src`: is the location for the URL to embed. This is optional as the `<source>` element within the video block can specify the video to embed.
 
 ### Why is it important to have fallback content inside the `<video>` element?
@@ -21,7 +22,7 @@ It is possible that either the browsers trying to display the video are not comp
 
 ### Write a very short story where `<audio>` and `<video>` are characters
 
-Audio and Video were the best of buddies. Their parents, both great developers would often place them together in different playgrounds to practice their special talents. Unfortunately not all playgrounds were made the same so they may not be on their best. For instance they could really do their "thing" when they went to Chrome, the best of all playgrounds. Both Audio & Video would play their talents with great quality in sight and sounds. However they couldn't stand Netscape.  Nothing would ever come out right! They often hope Netscape would get torn down so they could have another Chrome to play on!
+Audio and Video were the best of buddies. Their parents, both great sets of developers would often place them together in different playgrounds to practice their special talents. Unfortunately not all playgrounds were made the same so they found their talents may not be put to their best capabilities. For instance they could really do their "thing" when they went to Chrome, the best of all playgrounds. Both Audio & Video would play their talents with great quality in sight and sounds. However they couldn't stand Netscape.  Nothing would ever come out right! They often hoped Netscape would get torn down so they could have another Chrome to play on!
 
 ### How does Grid layout differ from Flex?
 
@@ -29,9 +30,11 @@ The basic difference between Grid and Flexbox is that flexbox was designed for a
 
 ### Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences
 
-**Grid container**: like in flexbox, it is the direct parent of the items to be placed in grid.
-**Grid item**: are the direct descendants of the grid container
-**Grid line**: are the horizontal and vertical lines that make up the grid and surround the grid items falling within the container.
+**Grid container**: like in flexbox, it is the direct parent of the items to be placed in grid. The constainer consists of grid items which are placed inside columns & rows.
+
+**Grid item**: are the direct descendants of the grid container. Each column has one grid item per row.  However, the item can be styles so it spans multiple rows and/or columns.
+
+**Grid line**: are the horizontal and vertical lines that make up the grid and surround the grid items falling within the container. The lines between columns are called column lines, while the lines between rows are called row lines. They are referred by line numbers when placing a grid item in a grid container.
 
 ### Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
 
@@ -72,3 +75,5 @@ When the browser starts to load a page, it starts preloading any images before t
 [From object to iframe — other embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
 [A Guide to the Responsive Images Syntax in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/#using-srcset)
+
+[CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp)
