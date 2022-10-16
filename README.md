@@ -14,11 +14,11 @@ This site holds all notes for Code Fellows' 201 Foundations of Software Developm
 - [Reading Assignment 08](/code-201/class-08.md)
 - [Reading Assignment 09](/code-201/class-09.md)
 - [Reading Assignment 10](/code-201/class-10.md)
-- [Reading Assignment 11](/code-201/notyet.md)
-- [Reading Assignment 12](/code-201/notyet.md)
-- [Reading Assignment 13](/code-201/notyet.md)
-- [Reading Assignment 14](/code-201/notyet.md)
-- [Reading Assignment 15](/code-201/notyet.md)
+- [Reading Assignment 11](/code-201/class-11.md)
+- [Reading Assignment 12](/code-201/class-12.md)
+- [Reading Assignment 13](/code-201/class-13.md)
+- [Reading Assignment 14](/code-201/class-14.md)
+- [Reading Assignment 15](/code-201/class-15.md)
 
 ## Code 102 Table of Contents
 
